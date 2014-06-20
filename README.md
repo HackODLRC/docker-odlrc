@@ -1,7 +1,9 @@
-A Docker container for ODLRC hackfest. Build it with:
+A Docker container for ODLRC hackfest. 
 
 
 Don't forget to add your Swift credentials in openrc and .cloudfuse! copy ```openrc.sample``` and ```.cloudfuse.sample``` to ```openrc``` and ```.cloudfuse``` with your credentials before you build! Easy-peasy!
+
+Build it with:
 
 ```
 docker build -t <yourname>/docker-odlrc .
