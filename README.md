@@ -17,7 +17,8 @@ Hey presto, you've got a ~~stew going~~ working swift client install! Probably! 
 ```
 cd /swiftclient
 source bin/activate
+source /openrc
 ```
 
-Don't forget to add your Swift credentials in .profile! Easy-peasy!
+Don't forget to add your Swift credentials in openrc! Easy-peasy!
 
