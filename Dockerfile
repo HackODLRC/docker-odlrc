@@ -13,5 +13,5 @@ RUN git clone https://github.com/redbo/cloudfuse /cloudfuse
 RUN /bin/bash /cloudfuse-make.sh
 ADD ./installswifttools.sh /installswifttools.sh
 RUN /bin/bash /installswifttools.sh
-ADD ./openrc.sh /openrc.sh
+ADD ./openrc /openrc
 
