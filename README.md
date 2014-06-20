@@ -20,5 +20,5 @@ source bin/activate
 source /openrc
 ```
 
-Don't forget to add your Swift credentials in openrc! Easy-peasy!
+Don't forget to add your Swift credentials in openrc and .cloudfuse! Edit openrc.sample and .cloudfuse.sample with your credentials! Easy-peasy!
 
