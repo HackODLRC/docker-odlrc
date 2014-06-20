@@ -10,5 +10,5 @@ Then go read https://github.com/HackODLRC/Vagrant-DebianBase - I've ganked the s
 docker run -i -t <yourname>/docker-odlrc /bin/bash
 ```
 
-And then run the swift script from inside the container. Hey presto, you've got a ~~stew going~~working swift install! Probably!
+And then run the swift script from inside the container. Hey presto, you've got a ~~stew going~~ working swift install! Probably!
 
